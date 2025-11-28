@@ -57,7 +57,6 @@
       <tr><td>in_app_purchase_android</td><td>The Android implementation of in_app_purchase.</td><td>BSD-3-Clause</td><td><a href="https://pub.dev/packages/in_app_purchase_android">pub.dev</a></td></tr>
       <tr><td>flex_color_scheme</td><td>Use FlexColorScheme to make beautiful Flutter Material Design themes.</td><td>BSD-3-Clause</td><td><a href="https://pub.dev/packages/flex_color_scheme">pub.dev</a></td></tr>
 
-    </tbody>
   </table>
 
   <footer>
