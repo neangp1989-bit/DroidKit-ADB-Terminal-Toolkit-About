@@ -52,7 +52,7 @@
       <tr><td>AndroidAsync</td><td>Asynchronous networking for Android</td><td>Apache-2.0</td><td><a href="https://github.com/koush/AndroidAsync">GitHub</a></td></tr>
       <tr><td>Gson</td><td>Google's JSON serialization lib</td><td>Apache-2.0</td><td><a href="https://github.com/google/gson">GitHub</a></td></tr>
       <tr><td>scrcpy</td><td>Android screen mirroring</td><td>Apache-2.0</td><td><a href="https://github.com/Genymobile/scrcpy">GitHub</a></td></tr>
-      <tr><td>ADB (Termux)</td><td>ADB tools via Termux</td><td>Apache-2.0</td><td><a href="https://github.com/termux/termux-packages">GitHub</a></td></tr>
+      <tr><td>Termux</td><td>Android-tools via Termux</td><td>Apache-2.0</td><td><a href="https://github.com/termux/termux-packages">GitHub</a></td></tr>
       <tr><td>in_app_purchase</td><td>A storefront-independent API for purchases in Flutter apps.</td><td>BSD-3-Clause</td><td><a href="https://pub.dev/packages/in_app_purchase">pub.dev</a></td></tr>
       <tr><td>in_app_purchase_android</td><td>The Android implementation of in_app_purchase.</td><td>BSD-3-Clause</td><td><a href="https://pub.dev/packages/in_app_purchase_android">pub.dev</a></td></tr>
       <tr><td>flex_color_scheme</td><td>Use FlexColorScheme to make beautiful Flutter Material Design themes.</td><td>BSD-3-Clause</td><td><a href="https://pub.dev/packages/flex_color_scheme">pub.dev</a></td></tr>
